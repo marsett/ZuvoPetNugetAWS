@@ -1,7 +1,8 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
+using ZuvoPetNugetAWS.Models;
 
-namespace ZuvoPetNuget.Models
+namespace ZuvoPetNugetAWS.Models
 {
     [Table("SOLICITUDESADOPCION")]
     public class SolicitudAdopcion

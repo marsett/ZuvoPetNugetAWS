@@ -1,4 +1,4 @@
-﻿namespace ZuvoPetNuget.Dtos
+﻿namespace ZuvoPetNugetAWS.Dtos
 {
     public class FotoPerfilDTO
     {

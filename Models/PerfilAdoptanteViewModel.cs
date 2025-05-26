@@ -1,4 +1,4 @@
-﻿namespace ZuvoPetNuget.Models
+﻿namespace ZuvoPetNugetAWS.Models
 {
     public class PerfilAdoptanteViewModel
     {
